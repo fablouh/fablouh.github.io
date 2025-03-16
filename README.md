@@ -1,4 +1,6 @@
-Welcome to my website
+Hi! I am Fayçal,
 
-- [My first website](/my-first-webpage/)
-- [Rot 13](/fayssal-rotate-13)
+Welcome to my website. Here I put all my coding projects.
+
+- [1. My first webpage](/my-first-webpage/)
+- [2. Rot 13](/fayssal-rotate-13)
